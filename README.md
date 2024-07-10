@@ -12,7 +12,6 @@ Fresh cart is an e-commerce created by using reactjs and vite contains several c
 such as men `s clothes ,women `s clothes ,electronics devices 
 and have many advantages to browse.
 </p>
-![fresh-cart](https://github.com/engwalid404/fresh-cart-stripe/blob/main/fresh-cart.png)
 
 <h3 style = "color:green;">Fresh Cart Pages</h3>
 
