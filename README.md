@@ -3,17 +3,17 @@
 
 </head>
 <body>
-<h1>Fresh Cart</h1>
-<img src ="./public/fresh-cart.png" width="100%" height="400px" alt = "fresh-cart-image"  />
+<h1 style = {{color:"green"}}>Fresh Cart</h1>
+<img src ="./public/fresh-cart.png" width="800px" height="400px" alt = "fresh-cart-image"  />
 ___________________
-<h3>About Fresh Cart E-Commerce</h3>
+<h3 style = {{color:"green"}}>About Fresh Cart E-Commerce</h3>
 <p>
 Fresh cart is an e-commerce created by using reactjs and vite contains several categories
 such as men `s clothes ,women `s clothes ,electronics devices 
 and have many advantages to browse.
 </p>
 
-<h3>Fresh Cart Pages</h3>
+<h3 style = {{color:"green"}}>Fresh Cart Pages</h3>
 
 <p>
 .Home
@@ -25,7 +25,7 @@ and have many advantages to browse.
 .Register
 </p>
 
-<h3>Tools && Technologies and Libraries</h3>
+<h3 style = {{color:"green"}}>Tools && Technologies and Libraries</h3>
 
 <p>
 .Html5
@@ -44,7 +44,7 @@ and have many advantages to browse.
 </p>
 
 
-<h3>Methods of payment</h3>
+<h3 style = {{color:"green"}}>Methods of payment</h3>
 
 <p>
 .Payment Cash
@@ -52,7 +52,7 @@ and have many advantages to browse.
 </p>
 
 
-<h3> Technical Advantages </h3>
+<h3 style = {{color:"green"}}> Technical Advantages </h3>
 
 .Auth for login
 .Auth for Register
@@ -65,6 +65,8 @@ and have many advantages to browse.
 .Handle errors
 <h3>Developer </h3>
 
+
+<h3 style = {{color:"red"}}>The Owner </h3>
 
 <p>
 .This Website Is Created By Frontend React Developer: Walid Rabie
