@@ -3,7 +3,7 @@
 
 </head>
 <body>
-  [Alt text]
+  ![Alt text]
   (https://github.com/engwalid404/fresh-cart-stripe/blob/main/fresh-cart.png)
 <h1 style = "color:green;">Fresh Cart</h1>
 ___________________
