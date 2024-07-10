@@ -3,6 +3,8 @@
 
 </head>
 <body>
+  [Alt text]
+  (https://github.com/engwalid404/fresh-cart-stripe/blob/main/fresh-cart.png)
 <h1 style = "color:green;">Fresh Cart</h1>
 ___________________
 <h3 style = "color:green;">About Fresh Cart E-Commerce</h3>
