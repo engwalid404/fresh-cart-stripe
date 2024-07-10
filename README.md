@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Fresh Cart</h1>
-<img src = "./public/fresh-cart.png" width="500px" height="400px"  />
+<img src ="./public/fresh-cart.png" width="100%" height="400px" alt = "fresh-cart-image"  />
 ___________________
 <h3>About Fresh Cart E-Commerce</h3>
 <p>
