@@ -7,9 +7,9 @@
 ___________________
 <h3>About Fresh Cart E-Commerce</h3>
 <p>
-Fresh cart is an e-commerce created by using reactjs and vite contains several categories
-such as men `s clothes ,women `s clothes ,electronics devices 
-and have many advantages to browse.
+Fresh cart is created by using reactjs and vite , I use data fetching API from (https://ecommerce.routemisr.com/api/v1/products),
+All of authentication pages,payment and errors are handeled,Fresh Cart contains several categories such as men `s clothes ,women `s clothes ,electronics devices etc..
+and supported by Stripe online payment and Cash Payment and it have many advantages to browse.
 </p>
 
 <h3>Fresh Cart Pages</h3>
@@ -20,6 +20,7 @@ and have many advantages to browse.
 .All Orders
 .Profile
 .Payments
+.NotFound
 .Login
 .Register
 </p>
