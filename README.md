@@ -3,8 +3,7 @@
 
 </head>
 <body>
-  ![Alt text]
-  (https://github.com/engwalid404/fresh-cart-stripe/blob/main/fresh-cart.png)
+ 
 <h1 style = "color:green;">Fresh Cart</h1>
 ___________________
 <h3 style = "color:green;">About Fresh Cart E-Commerce</h3>
@@ -13,7 +12,7 @@ Fresh cart is an e-commerce created by using reactjs and vite contains several c
 such as men `s clothes ,women `s clothes ,electronics devices 
 and have many advantages to browse.
 </p>
-![fresh-cart](https://github.com/engwalid404/fresh-cart-stripe/assets/118365589/51ac062c-9bf0-4f82-8a63-5cf3d9b126e7)
+![fresh-cart](https://github.com/engwalid404/fresh-cart-stripe/blob/main/fresh-cart.png)
 
 <h3 style = "color:green;">Fresh Cart Pages</h3>
 
