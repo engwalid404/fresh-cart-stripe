@@ -3,7 +3,7 @@
 
 </head>
 <body>
-![fresh-cart]{fresh-cart.png}
+![fresh-cart](fresh-cart.png)
 <h1 style = "color:green;">Fresh Cart</h1>
 
 ___________________
