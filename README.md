@@ -3,8 +3,9 @@
 
 </head>
 <body>
- 
+![fresh-cart]{fresh-cart.png}
 <h1 style = "color:green;">Fresh Cart</h1>
+
 ___________________
 <h3 style = "color:green;">About Fresh Cart E-Commerce</h3>
 <p>
