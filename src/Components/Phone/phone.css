@@ -1,0 +1,119 @@
+.container {
+    max-width: 100%;
+    width: 100%;
+}
+.container .child{
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    font-style: italic;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px 5px whitesmoke ;
+}
+.container .child:hover{
+    box-shadow: 5px 5px 5px 5px rgb(240, 237, 237) ;
+
+}
+.container .child h5{
+    margin-top: 25px;
+    font-weight: bold;
+}
+.container .child p:nth-child(odd){
+    color: green;
+}
+.container .settingP{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.settingP div.settingchild.col.col-lg-4.col-md-4.col-xs-12{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 35px;
+    padding: 15px;
+    border-radius: 15px;
+    width: 30%;
+}
+.settingP div.settingchild.col.col-lg-4.col-md-4.col-xs-12 h5{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+.settingP div.settingchild:nth-child(odd){
+    background: #b6ebf5;
+}
+.settingP div.settingchild:nth-child(even){
+    background: rgb(240, 115, 115);
+}
+.settingP div.settingchild:nth-child(3n + 0){
+    background: rgb(115, 241, 115);
+}
+.settingP div.settingchild:hover{
+    box-shadow: 2px 5px gainsboro;
+}
+.settingP div.settingchild.col.col-lg-4.col-md-4.col-xs-12 i.fa-solid {
+
+    background: white;
+    padding: 15px;
+    border-radius: 50%;
+}
+.image-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 100%;
+
+}
+.image-container .image-child-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 100%;
+}
+.image-container .image-child-1 img{
+    width: 100%;
+    height: 250px;
+}
+.image-container .image-child-2 img{
+    max-width: 100%;
+    height: 510px;
+}
+@media  screen and (max-width :600px) and (min-width:200px) {
+   .container .settingP {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+   
+    .settingP div.settingchild.col.col-lg-4.col-md-4.col-xs-12 {
+        width: 95%;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 10px;
+    }
+}
+
+@media  screen and (max-width :600px) and (min-width:200px) {
+.image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 100%;
+}
+.image-container .image-child-2 img{
+    height: 300px;
+}
+}

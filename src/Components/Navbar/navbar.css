@@ -1,0 +1,16 @@
+nav {
+
+background:whitesmoke; 
+font-style: italic;
+}
+nav  a:hover{
+    color: gray !important;
+}
+@media screen and (max-width:500px) and (min-width:200px){
+    .bg-danger {
+        margin-left: -309px;
+        /* position: absolute; */
+        --bs-bg-opacity: 1;
+        background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
+    }
+}

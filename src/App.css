@@ -1,0 +1,24 @@
+
+    *,
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+
+}
+a , a:hover{
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+
+@media screen and (max-width: 600px) and (min-width:200px) {
+  .slick-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    width: 1215px;
+}
+ 
+  }
+
